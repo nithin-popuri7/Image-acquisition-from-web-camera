@@ -13,19 +13,19 @@ iv) Rotate and display the video
 Anaconda - Python 3.7
 ## Algorithm
 ### Step 1:
-<br>
+Import Opencv and numpy(selective programs).
 
 ### Step 2:
-<br>
+Using VideoCapture(0), you can capture the picture.
 
 ### Step 3:
-<br>
+Using read(),you can read the given inpiut through webcam.
 
 ### Step 4:
-<br>
+Using get() or shape() we can divide the screens into many parts.
 
 ### Step 5:
-<br>
+End the Program.
 
 ## Program:
 ``` Python
