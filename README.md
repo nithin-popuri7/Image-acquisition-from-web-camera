@@ -127,7 +127,7 @@ cv2.destroyAllWindows()
 
 
 ### iii) Display the video by resizing the window
-![github](nithin2.png)
+![github](nithin1.png)
 
 
 
